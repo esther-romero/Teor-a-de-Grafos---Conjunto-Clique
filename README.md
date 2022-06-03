@@ -1,1 +1,1 @@
-# Teor-a-de-Grafos---Conjunto-Clique
+# TEORIA DE GRAFOS - CONJUNTO CLIQUE
