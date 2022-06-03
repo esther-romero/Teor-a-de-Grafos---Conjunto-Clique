@@ -26,7 +26,7 @@ public class Clique {
                 recorrido(i,1);
             }
         }
-        if(contCiclos==0) System.out.println("No se encontro un conjunto Clique");
+        if(contCiclos==0) System.out.println("\n\nNo se encontro un conjunto Clique\n\n");
     }
     
     public void addEdge(int a,int b) {
@@ -39,12 +39,11 @@ public class Clique {
         if(3==destino && esCiclo(v)) {
             System.out.print("Conjunto Clique: ");
             contCiclos+=1;
-            for(int i=0;i<3;i++){
+            int i;
+            for(i=0;i<3;i++){
                 System.out.print(conjuntoCamarilla[i] + " ");  
             }
-            System.out.println("");
-            System.out.println("Numero Clique: " + 
-            ((conjuntoCamarilla.length)-1)+"\n");
+            System.out.println("\nNumero Clique: " +i+"\n");
 
             vis[v] = false;
             return;
