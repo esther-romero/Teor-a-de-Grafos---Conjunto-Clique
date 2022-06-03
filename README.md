@@ -46,7 +46,7 @@ _Observamos que encontramos otro conjunto Clique de un número de vertices mayor
 _ ............ _
 
 
-## 2) Explicación de Clases 📖
+## 3) Explicación de Clases 📖
 
 _Se cuenta con dos clases: Clase Main y Clase Clique_
 
@@ -69,7 +69,7 @@ public class Clique {
 }    
 ```
 
-## 3) Explicación de métodos y su tipo de retorno 🚀
+## 4) Explicación de métodos y su tipo de retorno 🚀
 
 _La clase Clique contiene 4 métodos, verificando la existencia de un subgrafo completo._
 
@@ -113,11 +113,11 @@ _Imprime todos los resultados que encuentra, tomando cada vertice como punto de 
 @return void - sin valor de retorno
 ```
 
-## 4) Ejecutando Pruebas - DEMO ⚙️
+## 5) Ejecutando Pruebas - DEMO ⚙️
   
 
 
-## 5) Construido con 🛠️
+## 6) Construido con 🛠️
 
 _Herramientas que se utilizaron para el proyecto_
 
