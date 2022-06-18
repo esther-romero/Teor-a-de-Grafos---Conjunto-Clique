@@ -49,7 +49,9 @@ _Observamos que encontramos otro conjunto Clique de un número de vertices mayor
     | ----------------- |
     | <p align="center"><img width="500" src="https://github.com/esther-romero/Teoria-de-Grafos-Conjunto-Clique/blob/main/img/lila.png?raw=true" alt="Imagen Conjunto Camarilla"></p> |
 
-_ ............ _
+_Conclusión: Antes de poder encontrar un conjunto cliqué de 4 vértices, dentro del mismo, encontramos 4 conjuntos cliqué de 3 vértices, es por tal, que el algoritmo verifica si existe un conjunto clique de 3 vértices, siendo el primer resultado que muestra, si hubieran conjuntos clique de 4 vértices o más, lo más probable, es que el algoritmo muestre primero el de 3 vértices._
+
+_Al no encontrar un conjunto clique de 3 vertices, el algoritmo deja de buscar, debido a que es el mínimo número de vertices._
 
 
 ## 3) Explicación de Clases 📖
